@@ -4,4 +4,6 @@
 
 - ¿Qué dices, vienes o no? 
 
-["dialogoNPC-SI"]
+
+["dialogoNPC-SI","dialogoNPC-NO"]
+

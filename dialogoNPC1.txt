@@ -3,3 +3,5 @@
 - Llevaba esa chaqueta blanca suya... 
 
 - ¿Qué dices, vienes o no? 
+
+["dialogoNPC-NO"]
